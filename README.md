@@ -12,7 +12,7 @@ I run **[Ain't Social](https://aint.social)** (AINT Ltd.), a one-woman creative 
 
 ## Tools of the trade
 
-`ComfyUI` · `Flora` · `Weavy` · `Figma` · `Claude Code` · `Vercel` · and a growing pile of models I poke until they behave
+`ComfyUI` · `Flora` · `Weavy` · `Figma` · `Claude Code` · `Vercel` · `Cursor` · `Agentic Flows` and a growing pile of models I poke until they behave
 
 ## Building in public
 
@@ -34,4 +34,4 @@ Repos landing here soon. Watch this space, or don't. I'll know.
 - Email: [elena@aint.social](mailto:elena@aint.social)
 
 ---
-*Boring is a choice. I don't make it.*
+*Boring is a choice. I didn't make it.*
